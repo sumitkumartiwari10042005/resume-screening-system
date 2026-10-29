@@ -57,7 +57,7 @@ The JD is split into sections by headings such as "Required Skills" and "Good to
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/sumitkumartiwari10042005/AI-powered-Resume-Screening-and-Ranking-System.git
+git clone https://github.com/sumitkumartiwari10042005/resume-screening-system.git
 cd AI-powered-Resume-Screening-and-Ranking-System
 ```
 
